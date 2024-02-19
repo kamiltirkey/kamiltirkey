@@ -15,15 +15,17 @@ Welcome to my GitHub profile! I'm a passionate data analyst with expertise in Ex
 - **SQL Databases:** Experienced in working with MySQL and SQL Server for querying and managing databases.
 - **Tableau:** Skilled in creating interactive and insightful dashboards using Tableau.
 - **Tableau Prep Builder:** Proficient in data preparation and cleaning using Tableau Prep Builder.
+- **PowerQuery**
 
 ### Projects
 - **Sales Analysis Dashboard:** Developed a Tableau dashboard to analyze sales trends, identify key performance indicators, and provide actionable insights.
 - **Database Optimization:** Improved SQL queries and database performance, resulting in a 30% reduction in query execution time.
-- **Excel Automation:** Implemented automation scripts in Excel using VBA to streamline data processing tasks, saving 20 hours per week.
+  
 
 ### Certifications
 - **Tableau Desktop Specialist**
 - **SQL Certification**
+- Google Analytics Professional Certificate
 
 ### Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
