@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with expertise in Ex
 - Google Analytics Professional Certificate
 
 ### Connect with Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/kamiltirkey)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/kamiltirkey/)
 
 
 <div align="center">
