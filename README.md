@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst with expertise in Ex
 - Google Analytics Professional Certificate
 
 ### Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/kamiltirkey)
+
 
 <div align="center">
   <img src="https://example.com/your-project-screenshot.png" alt="Your Project Screenshot" width="600">
