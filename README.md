@@ -2,30 +2,47 @@
 
 # [Kamil Tirkey]
 
-## Data Analyst Enthusiast | SQL Enthusiast | Tableau Expert
+## Analyst | Tableau Developer 
 
 <div align="center">
   <img src="https://example.com/your-profile-image.jpg" alt="Your Profile Image" width="200" height="200">
 </div>
 
-Welcome to my GitHub profile! I'm a passionate data analyst with expertise in Excel, SQL, MySQL, SQL Server, and Tableau. I love transforming raw data into meaningful insights and actionable strategies.
+### CAREER SUMMARY 
 
-### Skills
-- **Data Analysis:** Proficient in utilizing Excel for data manipulation, analysis, and visualization.
-- **SQL Databases:** Experienced in working with MySQL and SQL Server for querying and managing databases.
-- **Tableau:** Skilled in creating interactive and insightful dashboards using Tableau.
-- **Tableau Prep Builder:** Proficient in data preparation and cleaning using Tableau Prep Builder.
-- **PowerQuery**
+Analyst and Tableau Developer who transforms complex data into actionable visual dashboards and reports for business leaders. Delivers production-ready analytics solutions for senior management, earning a Q2 Quarter Award for impact. Skilled in Tableau, Python, SQL, and Excel with focus on operational reporting and data visualization. Collaborates across teams to create data-driven solutions that support strategic business decisions. Certified in Tableau, Snowflake, and CIFO.
 
-### Projects
+### TECHNICAL SKILLS | EXPERTISE 
+- Tools & Technologies: Tableau, Excel, Tableau Prep Builder, Python, SQL, Figma, GitHub Agent  
+- Specialization: Data Visualization, Business Intelligence
+
+
+### PROJECTS
+- 3rd Party Vendor Dashboard - Developed Tableau reports and dashboards now deployed on Canada Finance PROD Site, utilized by leadership team. Received Q2 Quarter Award
+
+- Cost Per Unit (PUC) Analysis - Created comprehensive dashboards for Canada (CCC/IND segments), SLGSI, and Philippines operations using Tableau and Excel, tracking onshore/offshore cost efficiency metrics
+
+- CSR Functions Dashboard - Built comprehensive "one-stop shop" Tableau dashboard showcasing all CSR team activities and functions. Recognized by leadership and ManCom team 
+
+- Cost Saving Opportunity Tracker - Developed Excel and Tableau reporting solution to track cost details and identify savings opportunities for Canada Cost Management 
+
+- RRA Automation Dashboard - Took ownership of project providing overview of RPA, AI chatbot, and automation implementations, managing weekly/monthly data refreshes and future enhancements 
+
+- CDD Pipeline Dashboard - Created Tableau solution showing current headcount and future ramp-up/down projections with overall, team-wise, and process-wise analytics 
+
+- Project Kartavya - Transport OTA Analysis - Developed detailed analysis reports helping teams identify Cab/Employee On-Time Arrival patterns, analyzing first pick-up, OTA, reasons, and production impacts 
+
+- MIS Reporting UI/UX - Currently developing web-based MIS reporting interface
+
 - **Sales Analysis Dashboard:** Developed a Tableau dashboard to analyze sales trends, identify key performance indicators, and provide actionable insights.
 - **Database Optimization:** Improved SQL queries and database performance, resulting in a 30% reduction in query execution time.
   
 
-### Certifications
+### CERTIFICATIONS AND TRAINING
+- **Snowflake**
 - **Tableau Desktop Specialist**
 - **SQL Certification**
-- Google Analytics Professional Certificate
+- **Google Analytics Professional Certificate**
 
 ### Connect with Me
 - LinkedIn: (www.linkedin.com/in/kamiltirkey/)
